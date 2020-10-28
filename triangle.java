@@ -27,7 +27,7 @@ public class triangle {
 					System.out.println("Error, all values must be less than or equal max value (26)");
 				}
 			}else {
-				System.out.println("Error, all value’s must be greater than 0");
+				System.out.println("Error, all value's must be greater than 0");
 			}
 		}
 		}catch(Exception e) {
